@@ -16,7 +16,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 ## Audio Processing & Synthesis
 
 - [Csound](https://csound.com) - Battle-tested sound and music computing system.
-- [Hydrogen](http://hydrogen-music.org) - Advanced drum machine for pattern-based drum programming.
+- [Hydrogen](https://hydrogen-music.org) - Advanced drum machine for pattern-based drum programming.
 - [librosa](https://librosa.org/) - Python library for analyzing and manipulating music/audio data.
 - [pyo](https://github.com/belangeo/pyo) - Python DSP toolkit for sound synthesis/effects.
 - [Sporth](https://paulbatchelor.github.io/proj/sporth.html) - Stack-based audio language.
@@ -70,6 +70,5 @@ This list is perfect for:
 
 ## Related Lists
 
-- [Awesome Audio DSP](https://github.com/olilarkin/awesome-audio-dsp#readme)
 - [Awesome Music](https://github.com/ciconia/awesome-music#readme)
 
