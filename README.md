@@ -32,6 +32,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 - [AudioCraft](https://github.com/facebookresearch/audiocraft) - Meta's audio generation framework including MusicGen.
 - [ElevenLabs](https://elevenlabs.io) - AI voice synthesis and cloning platform.
 - [Google Magenta](https://magenta.tensorflow.org) - TensorFlow-based toolkit for AI music generation (MIDI/audio).
+- [LatentScore](https://github.com/prabal-rje/latentscore) - Simple text to ambient music in Python without GPU.
 - [Stable Audio](https://www.stableaudio.com/) - AI music generation with high quality and control.
 - [Suno](https://www.suno.ai) - AI-powered platform for generating complete songs with vocals and instruments.
 - [tuneflow-py](https://github.com/tuneflow/tuneflow-py) - Python SDK for AI-powered music production plugins.
