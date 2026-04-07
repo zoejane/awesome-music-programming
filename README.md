@@ -15,50 +15,62 @@ A carefully curated collection of tools, languages, and libraries for music prog
 
 ## Audio Processing & Synthesis
 
-- [Csound](https://csound.com) - Battle-tested sound and music computing system.
-- [Hydrogen](https://hydrogen-music.org) - Advanced drum machine for pattern-based drum programming.
-- [librosa](https://librosa.org/) - Python library for analyzing and manipulating music/audio data.
-- [pyo](https://github.com/belangeo/pyo) - Python DSP toolkit for sound synthesis/effects.
-- [Sporth](https://paulbatchelor.github.io/proj/sporth.html) - Stack-based audio language.
+- [Aubio](https://aubio.org) - Audio analysis library for pitch tracking, onset detection and tempo estimation
+- [Csound](https://csound.com) - Battle-tested sound and music computing system
+- [Essentia](https://essentia.upf.edu) - Comprehensive C++/Python library for audio and music analysis
+- [FluidSynth](https://www.fluidsynth.org) - Real-time software synthesizer based on the SoundFont standard
+- [Hydrogen](https://hydrogen-music.org) - Advanced drum machine for pattern-based drum programming
+- [librosa](https://librosa.org/) - Python library for analyzing and manipulating music/audio data
+- [Pedalboard](https://github.com/spotify/pedalboard) - Spotify's Python library for audio effects and processing
+- [pyo](https://github.com/belangeo/pyo) - Python DSP toolkit for sound synthesis/effects
+- [VCV Rack](https://vcvrack.com) - Open-source virtual modular synthesizer with a huge plugin ecosystem
 
 ## Computer-Aided Composition
 
-- [IanniX](https://www.iannix.org) - Graphical sequencer inspired by Xenakis.
-- [music21](https://web.mit.edu/music21) - Computational musicology toolkit.
-- [OpenMusic](https://openmusic-project.github.io) - Visual programming based on Lisp.
+- [Abjad](https://abjad.github.io) - Python API for formalized score control via LilyPond
+- [IanniX](https://www.iannix.org) - Graphical sequencer inspired by Xenakis
+- [LilyPond](https://lilypond.org) - Text-based music engraving system, like LaTeX for music notation
+- [MuseScore](https://musescore.org) - Open-source music notation editor with a large community
+- [music21](https://web.mit.edu/music21) - Computational musicology toolkit
+- [OpenMusic](https://openmusic-project.github.io) - Visual programming based on Lisp
 
 ## Music AI & Machine Learning
 
-- [AudioCraft](https://github.com/facebookresearch/audiocraft) - Meta's audio generation framework including MusicGen.
-- [ElevenLabs](https://elevenlabs.io) - AI voice synthesis and cloning platform.
-- [Google Magenta](https://magenta.tensorflow.org) - TensorFlow-based toolkit for AI music generation (MIDI/audio).
+- [AudioCraft](https://github.com/facebookresearch/audiocraft) - Meta's audio generation framework including MusicGen
+- [Demucs](https://github.com/facebookresearch/demucs) - Meta's deep learning model for music source separation
+- [ElevenLabs](https://elevenlabs.io) - AI voice synthesis and cloning platform
+- [Google Magenta](https://magenta.tensorflow.org) - TensorFlow-based toolkit for AI music generation (MIDI/audio)
 - [LatentScore](https://github.com/prabal-rje/latentscore) - Simple text to ambient music in Python without GPU.
-- [Stable Audio](https://www.stableaudio.com/) - AI music generation with high quality and control.
-- [Suno](https://www.suno.ai) - AI-powered platform for generating complete songs with vocals and instruments.
-- [tuneflow-py](https://github.com/tuneflow/tuneflow-py) - Python SDK for AI-powered music production plugins.
-- [Udio](https://udio.com) - AI-powered music creation with instrument and vocal synthesis.
+- [Stable Audio](https://www.stableaudio.com/) - AI music generation with high quality and control
+- [Suno](https://www.suno.ai) - AI-powered platform for generating complete songs with vocals and instruments
+- [Udio](https://udio.com) - AI-powered music creation with instrument and vocal synthesis
 
 ## Music Programming Languages & Environments
 
-- [Alda](https://github.com/alda-lang/alda) - A music programming language for musicians with Clojure-like syntax.
-- [ChucK](https://chuck.cs.princeton.edu) - Strongly-timed, concurrent audio programming language.
-- [Faust](https://faust.grame.fr) - Functional programming language for real-time signal processing.
-- [Sonic Pi](https://sonic-pi.net) - Live coding synth with educational focus.
-- [SuperCollider](https://supercollider.github.io) - Language for real-time audio synthesis and algorithmic composition.
-- [TidalCycles](https://tidalcycles.org) - Haskell-based live coding pattern system.
+- [Alda](https://github.com/alda-lang/alda) - A music programming language for musicians with Clojure-like syntax
+- [ChucK](https://chuck.cs.princeton.edu) - Strongly-timed, concurrent audio programming language
+- [Faust](https://faust.grame.fr) - Functional programming language for real-time signal processing
+- [Overtone](https://overtone.github.io) - Clojure-based music programming built on SuperCollider
+- [Pure Data](https://puredata.info) - Open-source visual programming for multimedia and audio
+- [Sonic Pi](https://sonic-pi.net) - Live coding synth with educational focus
+- [SuperCollider](https://supercollider.github.io) - Language for real-time audio synthesis and algorithmic composition
+- [TidalCycles](https://tidalcycles.org) - Haskell-based live coding pattern system
 
 ## Music Programming Libraries
 
-- [Leiter](https://github.com/felixroos/leiter) - TypeScript library for musical scales.
-- [mutwo](https://github.com/mutwo-org/mutwo) - Python library for time-based music structures.
+- [JUCE](https://juce.com) - Industry-standard C++ framework for audio applications and plugins
+- [Mido](https://github.com/mido/mido) - Python library for working with MIDI messages and files
+- [mutwo](https://github.com/mutwo-org/mutwo) - Python library for time-based music structures
+- [pretty_midi](https://github.com/craffel/pretty-midi) - Python library for MIDI data manipulation and analysis
 
 ## Web-Based Music Tools
 
-- [Hydra](https://hydra.ojack.xyz) - Web-based live coding visuals synced with audio.
-- [Orca](https://hundredrabbits.itch.io/orca) - Live coding tool using grid-based interface.
-- [Strudel](https://strudel.tidalcycles.org) - Live coding patterns using JavaScript and WebAudio.
-- [Tone.js](https://tonejs.github.io) - Web Audio framework for interactive music in the browser.
-- [Topos](https://topos.live) - Web-based live coding environment with MIDI/WebAudio.
+- [Hydra](https://hydra.ojack.xyz) - Web-based live coding visuals synced with audio
+- [Orca](https://hundredrabbits.itch.io/orca) - Live coding tool using grid-based interface
+- [Strudel](https://strudel.tidalcycles.org) - Live coding patterns using JavaScript and WebAudio
+- [Tone.js](https://tonejs.github.io) - Web Audio framework for interactive music in the browser
+- [Topos](https://topos.live) - Web-based live coding environment with MIDI/WebAudio
+- [VexFlow](https://www.vexflow.com) - JavaScript library for rendering music notation in the browser
 
 ---
 
