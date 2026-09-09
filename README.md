@@ -2,6 +2,8 @@
 
 A carefully curated collection of tools, languages, and libraries for music programming. Explore resources for algorithmic composition, real-time sound synthesis, live coding, and AI-driven music creation.
 
+For coding assistants, see [AGENTS.md](AGENTS.md); for contributions, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Contents
 
 - [Audio Processing & Synthesis](#audio-processing--synthesis)
