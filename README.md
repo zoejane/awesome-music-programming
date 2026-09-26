@@ -72,6 +72,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 - [Topos](https://topos.live) - Web-based live coding environment with MIDI/WebAudio
 - [VexFlow](https://www.vexflow.com) - JavaScript library for rendering music notation in the browser
 - [Web Audio Studio](https://app.webaudio.studio) - A real-time visualizer for Web Audio API graphs generated from code
+- [Play Music Theory](https://playmusictheory.org/) - Free browser playground where drawings become sound loops
 
 ---
 
