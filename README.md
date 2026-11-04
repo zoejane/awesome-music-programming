@@ -15,6 +15,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 
 ## Audio Processing & Synthesis
 
+- [AudioLens](https://github.com/SimZhou/vscode-audiolens) - VS Code extension for listening to audio and inspecting multichannel waveforms and spectrograms
 - [Aubio](https://aubio.org) - Audio analysis library for pitch tracking, onset detection and tempo estimation
 - [Csound](https://csound.com) - Battle-tested sound and music computing system
 - [Essentia](https://essentia.upf.edu) - Comprehensive C++/Python library for audio and music analysis
