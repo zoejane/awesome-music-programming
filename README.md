@@ -65,6 +65,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 
 ## Web-Based Music Tools
 
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 - [Hydra](https://hydra.ojack.xyz) - Web-based live coding visuals synced with audio
 - [Orca](https://hundredrabbits.itch.io/orca) - Live coding tool using grid-based interface
 - [Strudel](https://strudel.cc) - Live coding patterns using JavaScript and WebAudio
