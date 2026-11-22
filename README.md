@@ -40,6 +40,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 - [Demucs](https://github.com/facebookresearch/demucs) - Meta's deep learning model for music source separation
 - [ElevenLabs](https://elevenlabs.io) - AI voice synthesis and cloning platform
 - [Google Magenta](https://magenta.tensorflow.org) - TensorFlow-based toolkit for AI music generation (MIDI/audio)
+- [GrooveSheet](https://www.groovesheet.net/) - AI music transcription from audio to sheet music for drums, piano, guitar and bass, with stems, MIDI, a REST API and an open-source MCP server
 - [LatentScore](https://github.com/prabal-rje/latentscore) - Simple text to ambient music in Python without GPU.
 - [Stable Audio](https://www.stableaudio.com/) - AI music generation with high quality and control
 - [Suno](https://suno.com) - AI-powered platform for generating complete songs with vocals and instruments
